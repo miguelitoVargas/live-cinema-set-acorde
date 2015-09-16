@@ -668,5 +668,56 @@
 		<Unit filename="../openFrameworks/addons/ofxOsc/libs/oscpack/src/ip/NetworkingUtils.h">
 			<Option virtualFolder="addons/ofxOsc/libs/oscpack/src/ip" />
 		</Unit>
+		<Unit filename="../openFrameworks/addons/ofxGui/src/ofxToggle.cpp">
+			<Option virtualFolder="addons/ofxGui/src" />
+		</Unit>
+		<Unit filename="../openFrameworks/addons/ofxGui/src/ofxGui.h">
+			<Option virtualFolder="addons/ofxGui/src" />
+		</Unit>
+		<Unit filename="../openFrameworks/addons/ofxGui/src/ofxSliderGroup.h">
+			<Option virtualFolder="addons/ofxGui/src" />
+		</Unit>
+		<Unit filename="../openFrameworks/addons/ofxGui/src/ofxButton.h">
+			<Option virtualFolder="addons/ofxGui/src" />
+		</Unit>
+		<Unit filename="../openFrameworks/addons/ofxGui/src/ofxGuiGroup.cpp">
+			<Option virtualFolder="addons/ofxGui/src" />
+		</Unit>
+		<Unit filename="../openFrameworks/addons/ofxGui/src/ofxLabel.cpp">
+			<Option virtualFolder="addons/ofxGui/src" />
+		</Unit>
+		<Unit filename="../openFrameworks/addons/ofxGui/src/ofxPanel.h">
+			<Option virtualFolder="addons/ofxGui/src" />
+		</Unit>
+		<Unit filename="../openFrameworks/addons/ofxGui/src/ofxGuiGroup.h">
+			<Option virtualFolder="addons/ofxGui/src" />
+		</Unit>
+		<Unit filename="../openFrameworks/addons/ofxGui/src/ofxLabel.h">
+			<Option virtualFolder="addons/ofxGui/src" />
+		</Unit>
+		<Unit filename="../openFrameworks/addons/ofxGui/src/ofxBaseGui.cpp">
+			<Option virtualFolder="addons/ofxGui/src" />
+		</Unit>
+		<Unit filename="../openFrameworks/addons/ofxGui/src/ofxBaseGui.h">
+			<Option virtualFolder="addons/ofxGui/src" />
+		</Unit>
+		<Unit filename="../openFrameworks/addons/ofxGui/src/ofxPanel.cpp">
+			<Option virtualFolder="addons/ofxGui/src" />
+		</Unit>
+		<Unit filename="../openFrameworks/addons/ofxGui/src/ofxSlider.h">
+			<Option virtualFolder="addons/ofxGui/src" />
+		</Unit>
+		<Unit filename="../openFrameworks/addons/ofxGui/src/ofxSliderGroup.cpp">
+			<Option virtualFolder="addons/ofxGui/src" />
+		</Unit>
+		<Unit filename="../openFrameworks/addons/ofxGui/src/ofxButton.cpp">
+			<Option virtualFolder="addons/ofxGui/src" />
+		</Unit>
+		<Unit filename="../openFrameworks/addons/ofxGui/src/ofxSlider.cpp">
+			<Option virtualFolder="addons/ofxGui/src" />
+		</Unit>
+		<Unit filename="../openFrameworks/addons/ofxGui/src/ofxToggle.h">
+			<Option virtualFolder="addons/ofxGui/src" />
+		</Unit>
 	</Project>
 </CodeBlocks_project_file>

@@ -3,3 +3,6 @@
 *.swo
 
 openFrameworks
+
+live_cinema/bin/*
+live_cinema/obj
